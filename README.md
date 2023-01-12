@@ -1,1 +1,0 @@
-# itau-design-patterns
